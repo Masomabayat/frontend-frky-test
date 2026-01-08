@@ -1,0 +1,22 @@
+[
+    { "name": "Stéphane", "sex": "f", "city": "Lyon", "time": 3, "quantity": 3 },
+    { "name": "Dominique", "sex": "f",  "city": "Toulouse", "time": 7, "quantity": 6 },
+    { "name": "Isabelle", "sex": "f",  "city": "Nice", "time": 2, "quantity": 1 },
+    { "name": "Philippe", "city": "Marseille", "time": 5, "quantity": 3 },
+    { "name": "Catherine", "sex": "f",  "city": "Bordeaux", "time": 1, "quantity": 6 },
+    { "name": "François", "city": "Lille", "time": 4, "quantity": 3 },
+    { "name": "Nathalie", "sex": "f",  "city": "Rennes", "time": 8, "quantity": 1 },
+    { "name": "Christian", "city": "Strasbourg", "time": 6, "quantity": 3 },
+    { "name": "Sylvie", "sex": "f",  "city": "Montpellier", "time": 9, "quantity": 6 },
+    { "name": "Jean-Marc", "city": "Nantes", "time": 10, "quantity": 3 },
+    { "name": "Patricia", "sex": "f",  "city": "Grenoble", "time": 3, "quantity": 1 },
+    { "name": "Pascal", "city": "Dijon", "time": 5, "quantity": 6 },
+    { "name": "Corinne", "sex": "f",  "city": "Tours", "time": 2, "quantity": 3 },
+    { "name": "Bruno", "city": "Le Havre", "time": 7, "quantity": 1 },
+    { "name": "Véronique", "sex": "f",  "city": "Saint-Étienne", "time": 6, "quantity": 3 },
+    { "name": "Laurent", "city": "Reims", "time": 1, "quantity": 6 },
+    { "name": "Christine", "sex": "f",  "city": "Aix-en-Provence", "time": 4, "quantity": 1 },
+    { "name": "Patrick", "city": "Clermont-Ferrand", "time": 2, "quantity": 3 },
+    { "name": "Françoise", "sex": "f",  "city": "Caen", "time": 9, "quantity": 6 },
+    { "name": "Alain", "city": "Perpignan", "time": 8, "quantity": 3 }
+]

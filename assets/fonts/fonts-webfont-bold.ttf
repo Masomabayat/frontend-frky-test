@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+        <style>.async-hide { opacity: 0 !important} </style>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MVDK935');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWJM66K');</script>
+<!-- End Google Tag Manager -->  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noimageindex, nofollow, nosnippet">
+  <meta name="description" content="ProDentim - Text Presentation">
+  <title>ProDentim - Text Presentation</title>
+  <link rel="icon" type="image/png" href="https://prodentim.com/statics/img/favicon.png">
+  
+  
+  <style>
+    @font-face {
+  font-family: main-font;
+  src: url("https://prodentim.com/statics/fonts/Quicksand-Regular.ttf");
+}
+
+@font-face {
+  font-family: bold-font;
+  src: url("https://prodentim.com/statics/fonts/Quicksand-Bold.ttf");
+}
+
+@font-face {
+  font-family: light-font;
+  src: url("https://prodentim.com/statics/fonts/Quicksand-Light.ttf");
+}
+@font-face {
+  font-family: medium-font;
+  src: url("https://prodentim.com/statics/fonts/Quicksand-Medium.ttf");
+}
+
+@font-face {
+  font-family: semi-bold-font;
+  src: url("https://prodentim.com/statics/fonts/Quicksand-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: roboto-bold;
+  src: url("https://prodentim.com/statics/fonts/RobotoCondensed-Bold.ttf");
+}
+
+
+*{
+    --background-color:white;
+    --main-font-color:#272727;
+    --main-hover-color: #ccc;
+    --main-font-family: main-font, Roboto, "Helvetica Neue", Arial, sans-serif;
+    
+    /* font sizes */
+    --font-large: 2rem;
+    --font-medium: 1.5rem;
+    --font-normal: 1rem;
+    --font-small: 0.5rem;
+    
+    /* HDEADLINE */
+    --headline-color: var(--main-font-color);
+    
+    /* FOOTER colors*/
+    --footer-background-color: black;
+    --copywrite-background-color:darkgray;
+    --footer-font-color:#ffffff;
+    --footer-hover-color:var(--main-hover-color);
+    
+    --accent-color-light:#00a536;
+    /* PRICE BOX */
+    --color-dark:#3d56b0;
+    --color-light:#2fb3c5;
+    --references-clickable: auto;
+} 
+</style>  <link rel="stylesheet" type="text/css" href="https://prodentim.com/statics/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://prodentim.com/statics/css/style.css">
+  <link rel="stylesheet" type="text/css" href="https://prodentim.com/statics/css/webfont.css">
+  
+  <script src="https://prodentim.com/statics/js/statics_js.php?static=https://prodentim.com"></script>
+  <script src="https://vdlvry.com/statics/statics.js"></script>
+  
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap" rel="stylesheet">
+   </head>
+   <body>
+ 
+            
+      <div class="container-fluid">
+         <div class="row dark-green-bg py-2 py-lg-4">
+            <div class="container py-2 py-md-0">
+
+
+            <section class="top-nav ">
+    <div>
+    <img src="https://prodentim.com/statics/img/prodentim_logo.png" class=" img-fluid d-block  img-fluid d-block " style="max-width:168px;">
+    </div>
+    <input id="menu-toggle" type="checkbox" />
+    <label class='menu-button-container' for="menu-toggle">
+    <div class='menu-button'></div>
+  </label>
+  <ul class="menu">
+      <li class="justify-content-sm-start align-self-md-center pl-4 pl-lg-0 " for="menu-toggle"><a onclick="hideMenu()" href="#about">About ProDentim</a></li>
+      <li class="justify-content-sm-start align-self-md-center pl-4 pl-lg-0"><a onclick="hideMenu()" onclick="hideMenu" href="#ingredients">Ingredients</a></li>
+      <li class="justify-content-sm-start align-self-md-center pl-4 pl-lg-0"><a onclick="hideMenu()" href="#faq">FAQ</a></li>
+      <li class="justify-content-sm-start align-self-md-center pl-4 pl-lg-0"><a onclick="hideMenu()" href="#order-now"><img src="https://prodentim.com/statics/img/order-now.png" class="order-now-button img-fluid d-block"></a></li>
+    </ul>
+  </section>
+<script>
+   function hideMenu() 
+      {
+         document.getElementById("menu-toggle").checked = false;
+      }
+</script>
+
+
+
+              
+            </div>
+         </div>
+      </div>
+      </div>
+      </div>
+      </div>
+      <div class="light-green-bg">
+         <div class="container-fluid">
+            <div class="container">
+               <div class="py-4"></div>
+               <div class="py-2"></div>
+               <div class="row">
+                  <div class="col-12 col-lg-5 pr-lg-0">
+                     <img class="img-fluid d-block mx-auto" src="https://prodentim.com/statics/img/introducting_prodentim.png" >
+                  </div>
+                  
+                  <div class="col-12 col-lg-7 px-lg-0">
+                     <h2 class="text-white mt-1"><b>Brand New Probiotics <br class="d-none d-md-block">
+                        Specially Designed For The <br class="d-none d-md-block">
+                        Health Of Your Teeth And Gums</b>
+                     </h2>
+                     <p class="text-white pt-3 bigger"><b>Try ProDentim:</b> a unique blend of <b>3.5 billion</b> probiotic strains and nutrients backed by clinical research.</p>
+                     <div class="pt-1"></div>
+                     <img src="https://prodentim.com/statics/img/certifications.png" class="img-fluid d-block mx-auto mt-3">
+                  </div>
+               </div>
+            </div>
+            <div class="py-3"></div>
+         </div>
+      </div>
+      <div class="container-fluid">
+         <div class="container px-0">
+            <div class="py-3"></div>
+            <div class="py-3"></div>
+            <div class="d-flex flex-column flex-lg-row">
+               <div style="flex:3;" class="mr-lg-4">
+               <img src="https://prodentim.com/statics/img/doctor.png" class=" doctor-img img-fluid d-block mx-auto pb-4 pb-lg-0">
+               </div>
+               <div class="ml-lg-3" style="flex:8;" id="about">
+                  <p class="accent-red"><b>May 2022 - New Scientific Discovery</b></p>
+                  <h3><b>A recent study put out in the Springer Nature publication found that people who have good teeth have a high population of good bacteria in the mouth.</b></h3>
+                  <p class="accent-red"><b>(Hint - No Toothpaste or Mouthwash Involved)</b></p>
+                  <p class="smaller mb-0">As it turns out, many common dental products (such as toothpaste and mouthwash) contain toxic ingredients that can destroy the microbiome in the mouth. This explains why teeth can thrive for hundreds of years outside the mouth (in fossils), while in our mouth they get ruined by something so simple as chocolate.</p>
+                  <p class="smaller text-right"><u><a style="color:#afafaf;" target="_blank" href="https://www.nature.com/articles/d41586-021-02920-w" >Reference Link</u></a></p>
+               </div>
+            </div>
+         </div>
+         <div class="py-2"></div>
+         <div class="py-2"></div>
+      </div>
+      <div class="strawberry-bg">
+         <div class="container-fluid">
+            <div class="py-4"></div>
+            <div class="py-2"></div>
+            <div class="container white-bg-rounded">
+               <div class="py-3"></div>
+               <div class="d-flex flex-column flex-lg-row px-lg-2">
+                  <div class="ml-lg-4" style="flex:8;">
+                     <p class="bigger text-center mb-2"><b>That’s why we created</b></p>
+                     <img src="https://prodentim.com/statics/img/prodentim-logo2.png" class="img-fluid d-block mx-auto" style="width:280px;max-width:100%;">
+                     <div class="py-3"></div>
+                     <div class="px-lg-4">
+                        <p><b>ProDentim</b> is <b>unlike anything</b> you’ve ever tried or experienced in your life before.<br />
+                           It’s the only product in the world with a <b>unique blend</b> of 3.5 billion probiotics and nutrients, specially designed to repopulate your mouth with <b>good bacteria</b>.
+                        </p>
+                     </div>
+                     <div class="dark-green-bg-round darkbg-position mt-4 mx-lg-4">
+                        <p class="ml-lg-4 text-white py-1 px-4 px-lg-0 mb-0">Every ProDentim  you chew will support the good health of your gums and teeth.</p>
+                     </div>
+                     <div class="py-2"></div>
+                  </div>
+                  <div style="flex:3;" class="align-self-end">
+                     <img src="https://prodentim.com/statics/img/prodentim-strawberry.png" class=" img-fluid d-block mx-auto pt-4 pt-lg-0">
+                  </div>
+               </div>
+               <div class="py-3"></div>
+               <div class="pt-1"></div>
+            </div>
+            <div class="py-4"></div>
+            <div class="py-2"></div>
+         </div>
+      </div>
+      <div class="container-fluid" id="ingredients">
+         <div class="container px-0">
+            <div class="py-3"></div>
+            <div class="py-3"></div>
+            <h2 class="text-center"><b>Inside every ProDentim  you’ll find:</b></h2>
+            <p class="bigger text-center"><b>3.5 billions of probiotics</b>, along with <b>3 unique ingredients</b> that are clinically<br class="d-none d-lg-block"> proven to <b>support the health of your teeth and gums</b></p>
+            <div class="row mx-auto mt-5 mb-3">
+               <div class="col-12 col-lg-4">
+                  <img src="https://prodentim.com/statics/img/pro_b1.png" class="probiotic-img img-fluid d-block mx-auto pt-4 pt-lg-0 mb-4">
+                  <div class="dark-green-bg-round">
+                     <p class="bigger text-white text-center mb-0 py-1"><b>
+                        Lactobacillus Paracasei
+                        </b>
+                     </p>
+                  </div>
+                  <div class="py-1"></div>
+
+                  <ul class="triangle-check pl-0">
+                     <li class="medium"> Supports the health of your gums</li>
+                     <li class="medium"> Helps your sinuses stay free and open</li>
+                  </ul>
+
+      
+               </div>
+               <div class="col-12 col-lg-4">
+                  <img src="https://prodentim.com/statics/img/pro_b2.png" class="probiotic-img img-fluid d-block mx-auto pt-4 pt-lg-0 mb-4">
+                  <div class="dark-green-bg-round">
+                     <p class="bigger text-white text-center mb-0 py-1"><b>
+                        Lactobacillus Reuteri
+                        </b>
+                     </p>
+                  </div>
+                  <div class="py-1"></div>
+                  <ul class="triangle-check pl-0">
+                     <li class="medium"> Helps with inflammation</li>
+                     <li class="medium"> Supports a healthy mouth environment</li>
+                  </ul>
+               </div>
+               <div class="col-12 col-lg-4">
+                  <img src="https://prodentim.com/statics/img/pro_b3.png" class="probiotic-img img-fluid d-block mx-auto pt-4 pt-lg-0 mb-4">
+                  <div class="dark-green-bg-round">
+                     <p class="bigger text-white text-center mb-0 py-1"><b>
+                        B.lactis BL-04®
+                        </b>
+                     </p>
+                  </div>
+                  <div class="py-1"></div>
+                  <ul class="triangle-check pl-0">
+                     <li class="medium"> Supports the balance of mouth bacteria</li>
+                     <li class="medium"> Supports respiratory tract</li>
+                     <li class="medium"> Maintains a healthy immune system</li>
+                  </ul>
+               </div>
+            </div>
+           
+         </div>
+         <div class="py-4"></div>
+         <div class="py-2"></div>
+         <div class="container-md blend-bg px-0">
+            <div class="d-flex flex-column flex-lg-row">
+               <div style="flex:4;" class="mr-lg-4">
+                  <img src="https://prodentim.com/statics/img/blend.png" class=" img-fluid d-block mx-auto pb-4 pb-lg-0">
+               </div>
+               <div class="ml-lg-5 px-3 px-md-0" style="flex:7;">
+                  <div class="my-lg-5"></div>
+                  <div class="pt-lg-1"></div>
+                  <h4 class=""><b>Proprietary Blend of 4 Plants and Minerals</b></h4>
+                  <div class="py-2"></div>
+                  <ul class="triangle-check pl-0">
+                     <li class="medium">    <b>Inulin</b> supports the good bacteria</li>
+                     <li class="medium">  <b>Malic acid</b> in strawberries helps maintain tooth whiteness</li>
+                     <li class="medium">  <b>Tricalcium Phosphate</b> supports tooth health</li>
+                     <li class="medium"> <b>Peppermint</b> is a natural anti-inflammatory</li>
+                  </ul>
+               </div>
+            </div>
+            <div class="py-3 py-lg-0"></div>
+         </div>
+         <div class="py-3"></div>
+         <div class="py-3"></div>
+      </div>
+      <div class="mint-bg">
+         <div class="container-fluid">
+            <div class="py-4"></div>
+            <div class="py-2"></div>
+            <div class="container-sm white-bg-rounded px-2">
+               <div class="py-4"></div>
+               <img src="https://prodentim.com/statics/img/prodentim-logo2.png" class=" doctor-img img-fluid d-block mx-auto" style="width:415px;max-width:85%;">
+               <div class="py-4"></div>
+               <!-- <div class="row px-5">
+                  <div class="col-12 col-lg-4">
+                  <img src="https://prodentim.com/statics/img/checkmark2.png" class="checkmark-bigger img-fluid d-inline-block">
+                  <p class="bigger d-inline medium-font">
+                  Natural Formula
+                              </p>
+                  </div>
+                  <div class="col-12 col-lg-4">
+                  <img src="https://prodentim.com/statics/img/checkmark2.png" class="checkmark-bigger img-fluid d-inline-block">
+                  <p class="bigger d-inline medium-font">
+                  Easy To Use
+                              </p>
+                      </div>
+                      <div class="col-12 col-lg-4">
+                      <img src="https://prodentim.com/statics/img/checkmark2.png" class="checkmark-bigger img-fluid d-inline-block">
+                  <p class="bigger d-inline medium-font">
+                  Non-GMO
+                              </p>
+                      </div>
+                  </div>
+                  <div class="row px-5">
+                  
+                  <div class="col-12 col-lg-4">
+                  <img src="https://prodentim.com/statics/img/checkmark2.png" class="checkmark-bigger img-fluid d-inline-block">
+                  <p class="bigger d-inline medium-font">
+                  No Stimulants
+                             </p>
+                  </div>
+                  <div class="col-12 col-lg-4">
+                  <img src="https://prodentim.com/statics/img/checkmark2.png" class="checkmark-bigger img-fluid d-inline-block">
+                  <p class="bigger d-inline medium-font">
+                  Non-Habit Forming
+                             </p>
+                     </div>
+                     <div class="col-12 col-lg-4">
+                     <img src="https://prodentim.com/statics/img/checkmark2.png" class="checkmark-bigger img-fluid d-inline-block">
+                  <p class="bigger d-inline medium-font">
+                  Gluten Free
+                             </p>
+                     </div>
+                  </div> -->
+                  <div class="ml-lg-5 pl-lg-5">
+               <div class="d-flex justify-content-end flex-column flex-lg-row pl-lg-4 pl-4">
+                  <div style="flex:4">
+                     <img src="https://prodentim.com/statics/img/checkmark2.png"     class="checkmark-bigger img-fluid d-inline-block">
+                     <p class="bigger d-inline medium-font">
+                        Natural Formula
+                     </p>
+                  </div>
+                  <div style="flex:4">
+                     <img src="https://prodentim.com/statics/img/checkmark2.png"     class="checkmark-bigger img-fluid d-inline-block">
+                     <p class="bigger d-inline medium-font">
+                        Easy To Use                        
+                     </p>
+                  </div>
+                  <div style="flex:4">
+                     <img src="https://prodentim.com/statics/img/checkmark2.png"     class="checkmark-bigger img-fluid d-inline-block">
+                     <p class="bigger d-inline medium-font">
+                        Non-GMO                        
+                     </p>
+                  </div>
+               </div>
+               <div class="d-flex justify-content-end flex-column flex-lg-row pl-lg-4 pl-4">
+                  <div style="flex:4">
+                     <img src="https://prodentim.com/statics/img/checkmark2.png"     class="checkmark-bigger img-fluid d-inline-block">
+                     <p class="bigger d-inline medium-font">
+                        No Stimulants
+                     </p>
+                  </div>
+                  <div style="flex:4">
+                     <img src="https://prodentim.com/statics/img/checkmark2.png"     class="checkmark-bigger img-fluid d-inline-block">
+                     <p class="bigger d-inline medium-font">
+                        Non-Habit Forming
+                     </p>
+                  </div>
+                  <div style="flex:4">
+                     <img src="https://prodentim.com/statics/img/checkmark2.png"     class="checkmark-bigger img-fluid d-inline-block">
+                     <p class="bigger d-inline medium-font">
+                        Gluten Free                        
+                     </p>
+                  </div>
+               </div>
+               </div>
+               <div class="py-3"></div>
+               <div class="pt-1"></div>
+            </div>
+            <div class="py-4"></div>
+            <div class="py-2"></div>
+         </div>
+      </div>
+      <div class="bonus-bg">
+         <div class="container-fluid">
+            <div class="py-4"></div>
+            <div class="py-lg-2"></div>
+            <h1 class="small-title text-white text-center">Order <b>6 Bottles</b> or <b>3 Bottles</b><br /> and Get <u><b>2 FREE Bonuses!</b></u></h1>
+            <div class="container mt-5">
+               <div class="row">
+                  <div class="col-12 col-lg-6 col-lg-6-small mr-md-4 mr-xl-5 bonus-green-border">
+                     <div class="div py-3">
+                        <img src="https://prodentim.com/statics/img/bonus1.png" class=" img-fluid d-block mx-auto">
+                        <div class="dark-green-bg">
+                           <p class="mb-0 text-white text-center py-1 px-2 px-md-0 "><b><span class="accent-yellow">Bonus #1</span> - Bad Breath Gone. One Day Detox</b></p>
+                        </div>
+                        <div class="bg-white py-3 px-md-5 pb-md-5 py-md-3">
+                           <h3 class="text-center"><b>RRP - <strike>$109</strike></b> Today: <b>FREE</b></h3>
+                           <p class="text-center px-4">Kickstart your ProDentim  journey and enjoy fresh breath naturally with 7 unexpected spice and herb mixes from your kitchen that can do wonders.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-6 col-lg-6-small bonus-green-border mt-4 mt-lg-0">
+                     <div class="div py-3">
+                        <img src="https://prodentim.com/statics/img/bonus2.png" class=" img-fluid d-block mx-auto">
+                        <div class="dark-green-bg">
+                           <p class="mb-0 text-white text-center py-1 px-2 px-md-0 "><b><span class="accent-yellow">Bonus #2</span> - Hollywood White Teeth at Home</b></p>
+                        </div>
+                        <div class="bg-white py-3 px-md-5 py-md-3">
+                           <h3 class="text-center"><b>RRP - <strike>$109</strike></b> Today: <b>FREE</b></h3>
+                           <p class="text-center px-4">Find out everything about the simple 10 second “Bright Teeth” method you can do right now. You’ll also discover one little-known brushing trick that’s very popular among celebrities and more!</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="py-4"></div>
+            <div class="py-2"></div>
+         </div>
+      </div>
+      <div class="dark-green-bg">
+         <div class="container-fluid">
+            <div class="container">
+               <div class="row px-lg-5 py-4">
+                  <div class="d-flex flex-column flex-lg-row">
+                     <div>
+                        <img src="https://prodentim.com/statics/img/free-shipping.png" class=" img-fluid d-block mx-auto shipping-badge py-2">
+                     </div>
+                     <div class="align-self-center ml-lg-4 pl-lg-3 pt-3 pt-md-0">
+                        <h1 class="small-title text-white text-center"><b>Every Order Comes With <span class="text-yellow"><u>FREE Shipping</u> Too!</span></b></h1>
+                        <h4 class="small-title text-white text-center medium">*97% Of Customers Order 6 Bottles (Our Recommended Option)</h4>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="bg-white">
+         <div class="container-fluid">
+            <div class="row mt-5">
+               <div class="container">
+                  <div class="col-12 col-lg-10 mx-auto px-0">
+                     <div class="py-1"></div>
+                     <h1 class="small-title text-center">
+                       <b> Real ProDentim  Users.<br />
+                        Real Life-Changing Results.</b>
+                     </h1>
+                     <div class="py-4"></div>
+                     <img src="https://prodentim.com/statics/img/review-images2.png" class=" img-fluid d-none d-lg-block mx-auto py-2">
+                     <img src="https://prodentim.com/statics/img/mobile-testimonials-img.png" class=" img-fluid d-block d-lg-none mx-auto py-2">
+                     <div class="py-4"></div>
+                     <!-- TESTIMONIAL BOX -->
+                     <div class="d-flex flex-column flex-md-row px-3">
+                        <div class="div" style="flex:1">
+                           <img src="https://prodentim.com/statics/img/testimonial-face-sam.png" class="testimonial-face img-fluid d-none d-md-block mx-auto mb-2 mb-lg-0">
+                        </div>
+                        <div style="flex:8" class="ml-lg-3">
+                           <h3><b>
+                              Sam Perkin is enjoying better oral health…
+                              </b>
+                           </h3>
+                           <img src="https://prodentim.com/statics/img/testimonial-stars.png" class="testimonial-stars  img-fluid d-inline-block">
+                           <p class="smaller2 d-inline medium-font ml-2"><b>
+                              Verified Purchase
+                              </b>
+                           </p>
+                           <p class="bigger pt-2 mb-2">
+                              “I’ve always taken such good care of my teeth but it always felt like I wasn’t doing enough. Now, for the first time in decades, 
+                              my teeth feel amazing.”
+                           </p>
+                           <p class="mb-1">
+                              <b>Sam Perkin</b> - Dallas, USA
+                           </p>
+                        </div>
+                     </div>
+                     <!-- TESTIMONIAL BOX -->
+                     <!-- TESTIMONIAL BOX -->
+                     <div class="d-flex flex-column flex-md-row px-3 mt-5">
+                        <div class="div" style="flex:1">
+                           <img src="https://prodentim.com/statics/img/testimonial-face2.png" class="testimonial-face img-fluid d-none d-md-block mx-auto mb-2 mb-lg-0">
+                        </div>
+                        <div style="flex:8" class="ml-lg-3">
+                           <h3><b>
+                              Portia Thompson loves her fresh breath…
+                              </b>
+                           </h3>
+                           <img src="https://prodentim.com/statics/img/testimonial-stars.png" class="testimonial-stars  img-fluid d-inline-block">
+                           <p class="smaller2 d-inline medium-font ml-2"><b>
+                              Verified Purchase
+                              </b>
+                           </p>
+                           <p class="bigger pt-2 mb-2">
+                              “It’s just unbelievable how much I like ProDentim. I’m so glad my dentist recommended it to me!”
+                           </p>
+                           <p class="mb-1">
+                              <b>Portia Thompson</b> - Florida, USA
+                           </p>
+                        </div>
+                     </div>
+                     <!-- TESTIMONIAL BOX -->
+                     <!-- TESTIMONIAL BOX -->
+                     <div class="d-flex flex-column flex-md-row px-3 my-5">
+                        <div class="div" style="flex:1">
+                           <img src="https://prodentim.com/statics/img/testimonial-face3.png" class="testimonial-face img-fluid d-none d-md-block mx-auto mb-2 mb-lg-0">
+                        </div>
+                        <div style="flex:8" class="ml-lg-3">
+                           <h3><b>
+                              Theo Franklin doesn’t spend fortunes on dentists...
+                              </b>
+                           </h3>
+                           <img src="https://prodentim.com/statics/img/testimonial-stars.png" class="testimonial-stars  img-fluid d-inline-block">
+                           <p class="smaller2 d-inline medium-font ml-2"><b>
+                              Verified Purchase
+                              </b>
+                           </p>
+                           <p class="bigger pt-2 mb-2">
+                              “My gums have never looked better. It feels so good to not have to worry about my teeth. I simply love it!”
+                           </p>
+                           <p class="mb-1">
+                              <b>Theo Franklin</b> - Chicago, USA
+                           </p>
+                        </div>
+                     </div>
+                     <!-- TESTIMONIAL BOX -->
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="dark-green-bg">
+         <div class="container-fluid">
+            <div class="row py-4">
+               <div class="container">
+                  <h2 class="smaller text-white text-center mb-0 pb-0"><b>
+                     Claim Your Discounted ProDentim<br /> Below While Stocks Last!
+                     </b>
+                  </h2>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="triangle-grey-ctr tg"></div>
+      <div class="py-5"></div>
+      <div class="py-3"></div>
+      <div class="container pricebox">
+   <div class="row">
+      <div class="col-lg-4 col-12 mb-3 order-3 order-lg-0">
+         <div class="price-box left">
+            <div class="price_header">
+               <div class="pt-2"></div>
+               <h3 class="text-center pt-4 mb-0" style="font-size:40px;"><b style="color:#4cae85">1 X BOTTLE</b>
+               </h3>
+               <p class="text-center  mb-0 semi-b price_bottle" style="font-size:22px;">·
+                  <span replace item='1' type='fe'  parameter='days'></span> Day Supply · 
+               </p>
+               <div class="py-2"></div>
+            </div>
+            <div class="card-product">
+               <div class="price_product_box">
+                  <img src="https://prodentim.com/" productimage="1" type="fe"  ""
+                     style="max-height:240px;" class="d-block mx-auto  img-fluid px-3">
+               </div>
+               <div class="py-2"></div>
+               <img class="img-fluid mx-auto d-block pt-5" style="max-width:251px;"
+                  src="https://prodentim.com/statics/img/69.png">
+               <div class="py-2"></div>
+               <div class="d-none d-md-block">
+                  <div class="row flex-nowrap" style="border:#272727 1.3px solid;border-style:dashed;border-radius:6px;visibility:hidden;">
+                     <div class="col-2 pl-0 pr-0 my-auto">
+                        <img src="./statics/img/checks.png" class="img-fluid mx-auto d-block" style="width:33px; height:33px;">
+                     </div>
+                     <div class="col-10 col-lg-auto d-inline-block medium my-auto text-left px-1">
+                        <p class=" mb-0 bold pr-3" style="font-size:22px; ">2 FREE BONUSES!</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="py-2"></div>
+               <a g-evt="buy_1" href="" buylink="buy1_link""    class="mb-3 mx-auto d-block" ><img
+                  src="https://prodentim.com/statics/img/buy-now.png"  class="img-fluid d-block mx-auto"
+                  style="max-width:285px;padding-top:10px;" alt=""></a>
+               <p class="text-center mt-0 mb-1" style="font-size:26px;">TOTAL: <s
+                  style="font-size:26px;">$<span replace item='1' type='fe' parameter='initial_price'></span></s>
+                  <b>$<span replace item='1' type='fe'  parameter='price'></span></b>
+               </p>
+               <div class="card-section py-1">
+                  <img src="https://prodentim.com/statics/img/credit-cards.png"
+                     class="img-fluid mx-auto d-block mb-0" style="max-width:256px;" alt="">
+               </div>
+               <p class="text-center medium mb-5">*FREE Shipping </p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4 col-12 mb-3 col-lg-4 order-lg-2 highlighted">
+         <div class="price-box middle">
+            <div class="price_header">
+               <div class="pt-2"></div>
+               <h3 class="text-center pt-4 mb-0" style="font-size:40px;"><b style="color:#007953">6 X BOTTLES</b>
+               </h3>
+               <p class="text-center  mb-0 semi-b price_bottle" style="font-size:22px;">·
+                  <span replace item='3' type='fe'  parameter='days'></span> Day Supply ·
+               </p>
+               <div class="py-2"></div>
+            </div>
+            <div class="card-product">
+               <div class="price_product_box">
+                  <img src="https://prodentim.com/" productimage="3" type="fe"  ""
+                     class="d-block mx-auto img-fluid pl-3 mt-2 px-1" style="max-height:260px;">
+               </div>
+               <div class="py-3"></div>
+               <div class="pt-1"></div>
+               <img class="img-fluid mx-auto d-block pt-5" style="max-width:264px;"
+                  src="https://prodentim.com/statics/img/49.png">
+                  <img class="img-fluid mx-auto d-block pt-3" style="max-width:244px;"
+                  src="https://prodentim.com/statics/img/2freebonuses.png">
+               <div class="py-2"></div>
+               <a g-evt="buy_6" href="" buylink="buy6_link""   class="mb-3 mx-auto d-block " ><img
+                  src="https://prodentim.com/statics/img/buy-now2.png"  style="max-width:307px;"
+                  class="img-fluid d-block mx-auto pl-lg-2" alt=""></a>
+               <p class="text-center mt-0 mb-1" style="font-size:26px;">TOTAL: <s
+                  style="font-size:26px;">$<span replace item='3' type='fe' parameter='initial_price'></span></s><b>
+                  $<span replace item='3' type='fe'  parameter='price'></span></b>
+               </p>
+               <div class="card-section py-1">
+                  <img src="https://prodentim.com/statics/img/credit-cards.png"
+                     class="img-fluid mx-auto d-block mb-0" style="max-width:256px;" alt="">
+               </div>
+               <p class="text-center medium mb-5">*FREE Shipping </p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4 col-12 mb-3 order-2 order-lg-3">
+         <div class="price-box left">
+            <div class="price_header">
+               <div class="pt-2"></div>
+               <h3 class="text-center pt-4 mb-0" style="font-size:40px;"><b style="color:#007953">3 X BOTTLES</b>
+               </h3>
+               <p class="text-center  mb-0 semi-b price_bottle" style="font-size:22px;">·
+                  <span replace item='2' type='fe'  parameter='days'></span> Day Supply ·
+               </p>
+            </div>
+            <div class="card-product">
+               <div class="price_product_box">
+                  <img src="https://prodentim.com/" productimage="2" type="fe"  ""
+                     class="d-block mx-auto img-fluid pl-2 px-2" style="max-height:256px;">
+               </div>
+               <div class="py-3"></div>
+               <img class="img-fluid mx-auto d-block pt-5" style="max-width:250px;"
+                  src="https://prodentim.com/statics/img/59.png">
+                  <img class="img-fluid mx-auto d-block pt-3" style="max-width:244px;"
+                  src="https://prodentim.com/statics/img/2freebonuses.png">
+               <div class="py-2"></div>
+               <a g-evt="buy_3" href="" buylink="buy3_link""   class="mb-3 mx-auto d-block " ><img
+                  src="https://prodentim.com/statics/img/buy-now.png"   style="max-width:285px;"
+                  class="img-fluid d-block mx-auto" alt=""></a>
+               <p class="text-center mt-0 mb-1" style="font-size:26px;">TOTAL:
+                  <s>$<span replace item='2' type='fe' parameter='initial_price'></span></s><b>
+                  $<span replace item='2' type='fe'  parameter='price'></span></b>
+               </p>
+               <div class="card-section py-1">
+                  <img src="https://prodentim.com/statics/img/credit-cards.png"
+                     class="img-fluid mx-auto d-block mb-0" style="max-width:254px;" alt="">
+               </div>
+               <p class="text-center medium mb-5">*FREE Shipping </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>      <div class="pt-1"></div>
+      <div class="bg-white">
+         <div class="container-fluid">
+            <div class="row py-4">
+               <div class="container">
+                  <p class="bigger text-center mb-0">
+                     Our customers say
+                  </p>
+                  <img src="https://prodentim.com/statics/img/testimonial-stars.png" class="img-fluid d-block mx-auto py-2" style="max-width:245px;">
+                  <p class="bigger text-center">
+                     based on <b>95,000 reviews!</b>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="strawberry-bg2">
+         <div class="container-fluid">
+            <div class="py-4 py-lg-5"></div>
+            <div class="py-1"></div>
+            <div class="container-md white-bg-rounded">
+               <div class="py-3"></div>
+               <div class="d-flex flex-column flex-lg-row px-lg-4">
+                  <div style="flex:3;" class="align-self-center align-self-md-end">
+                     <img src="https://prodentim.com/statics/img/guarantee_badge.png" class="guarantee-img img-fluid d-block mx-auto pb-4 pb-lg-0">
+                  </div>
+                  <div class="" style="flex:8;">
+                     <div class="py-3"></div>
+                     <h1 class="small-title"><b>100% Satisfaction <br class="d-none d-lg-block">
+                        60-Day Money Back Guarantee</b>
+                     </h1>
+                     <p class="bigger medium mb-0">Your order today is covered by our iron-clad 60-day 100%<br class="d-none d-lg-block">
+                        money-back guarantee. If you are not impressed by the <br class="d-none d-lg-block">
+                        transformation of your gums and teeth or you don’t admire your <br class="d-none d-lg-block">
+                        Hollywood-star smile, then at any time in the next 60 days write<br class="d-none d-lg-block">
+                        to us and we’ll refund every single cent.
+                     </p>
+                  </div>
+               </div>
+               <div class="py-4"></div>
+               <div class="py-lg-3"></div>
+            </div>
+            <div class="py-4 py-lg-5"></div>
+            <div class="py-lg-1"></div>
+         </div>
+      </div>
+      <div class="badges-bg">
+         <div class="container-fluid">
+            <div class="row py-2">
+               <div class="container">
+                  <div class="col-12 col-lg-8 mx-auto">
+                     <img src="https://prodentim.com/statics/img/certifications.png" class="img-fluid d-block mx-auto py-5">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="bg-white" id="faq">
+         <div class="container-fluid">
+            <div class="row mt-5">
+               <div class="container-md">
+                  <div class="col-12 col-lg-12 mx-auto px-0">
+                     <div class="py-1"></div>
+                     <h1 class="text-center"><b>
+                        Frequently Asked Questions</b>
+                     </h1>
+                     <div class="py-4"></div>
+                     <h3 class="smaller pb-2"><b>
+                        1. How and why does ProDentim  work?
+                        </b>
+                     </h3>
+                     <p class="bigger ml-md-4">We’ve always been told that “bad” bacteria are to blame for all dental diseases but, upon a closer look, scientists have realized that imbalance in the oral health is caused by the lack of good bacteria.</p>
+                     <p class="bigger ml-md-4">The population of good bacteria can be harmed by common dental products that might contain toxic ingredients. This explains why teeth can thrive for thousands of years outside of the mouth, while in our mouth they get ruined by plain chocolate.<br />
+                        In order to support the health of your teeth and gums, you need to repopulate your mouth with good bacteria and provide a healthy environment for the strains to grow in.
+                     </p>
+                     <p class="bigger ml-md-4">ProDentim is a doctor-formulated mix that gathers 5 scientifically proven, potent strains, combining a total of 3.5 Billion good bacteria into one revolutionary dissolvable candy. </p>
+                     <p class="bigger ml-md-4">This probiotic candy also targets your respiratory system, supporting your body to stay free from allergies, while also promoting restful sleep and good digestion.</p>
+                     <h3 class="smaller py-2"><b>
+                        2. Are there any side effects?
+                        </b>
+                     </h3>
+                     <p class="bigger ml-md-4">ProDentim has been designed for all ages and medical conditions.
+                        All of the ingredients inside of ProDentim  have been generally considered to be safe, and are constantly tested for purity and to ensure against toxins and contaminants. Moreover, ProDentim  is manufactured in an FDA-approved facility, under sterile, strict and precise standards.
+                     </p>
+                     <p class="bigger ml-md-4">As always, if you currently have a medical condition or you’re taking other prescription medication, we advise you to show a bottle of ProDentim  to your doctor before you take it, just to put your mind at ease.</p>
+                     <h3 class="smaller py-2"><b>
+                        3. When and how should I take ProDentim?
+                        </b>
+                     </h3>
+                     <p class="bigger ml-md-4">We recommend you slowly chew a tablet every morning to support the health of your entire body, gums and teeth.</p>
+                     <h3 class="smaller py-2"><b>
+                        4. What if it doesn’t work for me? Can you tell me about the guarantee again?
+                        </b>
+                     </h3>
+                     <p class="bigger ml-md-4"> The more results we see, the stronger we believe ProDentim  has the power to transform lives. It’s true, though, that nothing works for 100% of the people who try it as each body 
+                        works in its own way.
+                     </p>
+                     <p class="bigger ml-md-4">That’s why every bottle of ProDentim  comes with an ironclad 60-day money back guarantee. If, for any reason, you aren’t fully satisfied with the results, you can just return what you haven't used for a full, no question asked refund.</p>
+                     <h3 class="smaller py-2"><b>
+                        5. How can I get started?
+                        </b>
+                     </h3>
+                     <p class="bigger ml-md-4">It’s very easy! Just click the button below now to go to our secure order checkout page, enter in your information, and we’ll immediately get to work shipping ProDentim  right to your doorstep.</p>
+                     <div class="py-4"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="dark-green-bg">
+         <div class="container-fluid">
+            <div class="row py-4">
+               <div class="container">
+                  <h2 class="smaller text-white text-center mb-0 pb-0"><b>
+                     Claim Your Discounted ProDentim<br /> Below While Stocks Last!
+                     </b>
+                  </h2>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="triangle-grey-ctr tg"></div>
+      <div class="py-5"></div>
+      <div class="py-3" id="order-now"></div>
+      <div class="container pricebox">
+   <div class="row">
+      <div class="col-lg-4 col-12 mb-3 order-3 order-lg-0">
+         <div class="price-box left">
+            <div class="price_header">
+               <div class="pt-2"></div>
+               <h3 class="text-center pt-4 mb-0" style="font-size:40px;"><b style="color:#4cae85">1 X BOTTLE</b>
+               </h3>
+               <p class="text-center  mb-0 semi-b price_bottle" style="font-size:22px;">·
+                  <span replace item='1' type='fe'  parameter='days'></span> Day Supply · 
+               </p>
+               <div class="py-2"></div>
+            </div>
+            <div class="card-product">
+               <div class="price_product_box">
+                  <img src="https://prodentim.com/" productimage="1" type="fe"  ""
+                     style="max-height:240px;" class="d-block mx-auto  img-fluid px-3">
+               </div>
+               <div class="py-2"></div>
+               <img class="img-fluid mx-auto d-block pt-5" style="max-width:251px;"
+                  src="https://prodentim.com/statics/img/69.png">
+               <div class="py-2"></div>
+               <div class="d-none d-md-block">
+                  <div class="row flex-nowrap" style="border:#272727 1.3px solid;border-style:dashed;border-radius:6px;visibility:hidden;">
+                     <div class="col-2 pl-0 pr-0 my-auto">
+                        <img src="./statics/img/checks.png" class="img-fluid mx-auto d-block" style="width:33px; height:33px;">
+                     </div>
+                     <div class="col-10 col-lg-auto d-inline-block medium my-auto text-left px-1">
+                        <p class=" mb-0 bold pr-3" style="font-size:22px; ">2 FREE BONUSES!</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="py-2"></div>
+               <a g-evt="buy_1" href="" buylink="buy1_link""    class="mb-3 mx-auto d-block" ><img
+                  src="https://prodentim.com/statics/img/buy-now.png"  class="img-fluid d-block mx-auto"
+                  style="max-width:285px;padding-top:10px;" alt=""></a>
+               <p class="text-center mt-0 mb-1" style="font-size:26px;">TOTAL: <s
+                  style="font-size:26px;">$<span replace item='1' type='fe' parameter='initial_price'></span></s>
+                  <b>$<span replace item='1' type='fe'  parameter='price'></span></b>
+               </p>
+               <div class="card-section py-1">
+                  <img src="https://prodentim.com/statics/img/credit-cards.png"
+                     class="img-fluid mx-auto d-block mb-0" style="max-width:256px;" alt="">
+               </div>
+               <p class="text-center medium mb-5">*FREE Shipping </p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4 col-12 mb-3 col-lg-4 order-lg-2 highlighted">
+         <div class="price-box middle">
+            <div class="price_header">
+               <div class="pt-2"></div>
+               <h3 class="text-center pt-4 mb-0" style="font-size:40px;"><b style="color:#007953">6 X BOTTLES</b>
+               </h3>
+               <p class="text-center  mb-0 semi-b price_bottle" style="font-size:22px;">·
+                  <span replace item='3' type='fe'  parameter='days'></span> Day Supply ·
+               </p>
+               <div class="py-2"></div>
+            </div>
+            <div class="card-product">
+               <div class="price_product_box">
+                  <img src="https://prodentim.com/" productimage="3" type="fe"  ""
+                     class="d-block mx-auto img-fluid pl-3 mt-2 px-1" style="max-height:260px;">
+               </div>
+               <div class="py-3"></div>
+               <div class="pt-1"></div>
+               <img class="img-fluid mx-auto d-block pt-5" style="max-width:264px;"
+                  src="https://prodentim.com/statics/img/49.png">
+                  <img class="img-fluid mx-auto d-block pt-3" style="max-width:244px;"
+                  src="https://prodentim.com/statics/img/2freebonuses.png">
+               <div class="py-2"></div>
+               <a g-evt="buy_6" href="" buylink="buy6_link""   class="mb-3 mx-auto d-block " ><img
+                  src="https://prodentim.com/statics/img/buy-now2.png"  style="max-width:307px;"
+                  class="img-fluid d-block mx-auto pl-lg-2" alt=""></a>
+               <p class="text-center mt-0 mb-1" style="font-size:26px;">TOTAL: <s
+                  style="font-size:26px;">$<span replace item='3' type='fe' parameter='initial_price'></span></s><b>
+                  $<span replace item='3' type='fe'  parameter='price'></span></b>
+               </p>
+               <div class="card-section py-1">
+                  <img src="https://prodentim.com/statics/img/credit-cards.png"
+                     class="img-fluid mx-auto d-block mb-0" style="max-width:256px;" alt="">
+               </div>
+               <p class="text-center medium mb-5">*FREE Shipping </p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4 col-12 mb-3 order-2 order-lg-3">
+         <div class="price-box left">
+            <div class="price_header">
+               <div class="pt-2"></div>
+               <h3 class="text-center pt-4 mb-0" style="font-size:40px;"><b style="color:#007953">3 X BOTTLES</b>
+               </h3>
+               <p class="text-center  mb-0 semi-b price_bottle" style="font-size:22px;">·
+                  <span replace item='2' type='fe'  parameter='days'></span> Day Supply ·
+               </p>
+            </div>
+            <div class="card-product">
+               <div class="price_product_box">
+                  <img src="https://prodentim.com/" productimage="2" type="fe"  ""
+                     class="d-block mx-auto img-fluid pl-2 px-2" style="max-height:256px;">
+               </div>
+               <div class="py-3"></div>
+               <img class="img-fluid mx-auto d-block pt-5" style="max-width:250px;"
+                  src="https://prodentim.com/statics/img/59.png">
+                  <img class="img-fluid mx-auto d-block pt-3" style="max-width:244px;"
+                  src="https://prodentim.com/statics/img/2freebonuses.png">
+               <div class="py-2"></div>
+               <a g-evt="buy_3" href="" buylink="buy3_link""   class="mb-3 mx-auto d-block " ><img
+                  src="https://prodentim.com/statics/img/buy-now.png"   style="max-width:285px;"
+                  class="img-fluid d-block mx-auto" alt=""></a>
+               <p class="text-center mt-0 mb-1" style="font-size:26px;">TOTAL:
+                  <s>$<span replace item='2' type='fe' parameter='initial_price'></span></s><b>
+                  $<span replace item='2' type='fe'  parameter='price'></span></b>
+               </p>
+               <div class="card-section py-1">
+                  <img src="https://prodentim.com/statics/img/credit-cards.png"
+                     class="img-fluid mx-auto d-block mb-0" style="max-width:254px;" alt="">
+               </div>
+               <p class="text-center medium mb-5">*FREE Shipping </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>      <div class="pt-1"></div>
+      <div class="bg-white">
+         <div class="container-fluid">
+            <div class="row py-4">
+               <div class="container">
+                  <p class="bigger text-center mb-0">
+                     Our customers say
+                  </p>
+                  <img src="https://prodentim.com/statics/img/testimonial-stars.png" class="img-fluid d-block mx-auto py-2" style="max-width:245px;">
+                  <p class="bigger text-center">
+                     based on <b>95,000 reviews!</b>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="ref-bg">
+         <div class="container-fluid">
+            <div class="row">
+               <div class="container">
+                  <div class="py-4"></div>
+                  <div class="py-2"></div>
+                  <h3 class="text-center medium">Scientific references:</h3>
+                  <img src="https://prodentim.com/statics/img/refs-logos.png" class="img-fluid d-block mx-auto py-5" style="width:886px;max-width:90%;">
+               </div>
+            </div>
+            <div class="container">
+               <div class="row">
+                  <div class="col-12 col-lg-6 px-4">
+                     <ol class="tsl-ref pl-0" id="refrences">
+                        <li>Booth S. Bacteria in your mouth can affect your brain. Healthline. 2019, May 5 - https://www.healthline.com/health-news/bacteria-in-your-mouth-can-find-its-way-to-your-brain</li>
+                        <li>Burhenne M. The oral microbiome & its impact on every other system in the body. Ask the Dentist. 2020, April 9 - https://askthedentist.com/oral-microbiome</li>
+                        <li>Burhenne M. How to avoid toxins in your toothpaste: 12 ingredients to ditch now. Experience Life. 2022, January 14 - https://experiencelife.lifetime.life/article/safe-toothpaste</li>
+                           <li>Schlagenhauf U, Jockel-Schneider Y. Probiotics in the management of gingivitis and periodontitis. A review. Frontiers in Dental Medicine.2021: 2 - https://doi.org/10.3389/fdmed.2021.708666</li>
+                        <li>Daniells S. Probiotic lactobacillus paracasei shows oral health benefits: Study. nutraingredients.com. 2014, September 2 - https://www.nutraingredients.com/Article/2014/09/02/Probiotic-Lactobacillus-paracasei-shows-oral-health-benefits-Study</li>
+                        <li>Daniells S. Live or dead reuteri bacteria may offer oral health benefits: Study. nutraingredients-latam.com. 2019, December 12 - https://www.nutraingredients-latam.com/Article/2019/12/12/Live-or-dead-reuteri-bacteria-may-offer-oral-health-benefits-Study</li>
+                        <li>Invernici MM, Salvador SL, Silva PH, et al. Effects of Bifidobacterium probiotic on the treatment of chronic periodontitis: A randomized clinical trial. Journal of Clinical Periodontology. 2012;45(10):1198-1210 - https://doi.org/10.1111/jcpe.12995</li>
+                       
+                     </ol>
+                  </div>
+                  <div class="col-12 col-lg-6 px-4">
+                     <ol class="tsl-ref pl-0" start="8">
+                     <li>Invernici MM, Salvador SL, Silva PH, et al. Effects of Bifidobacterium probiotic on the treatment of chronic periodontitis: A randomized clinical trial. Journal of Clinical Periodontology. 2012;45(10):1198-1210 - https://doi.org/10.1111/jcpe.12995</li>
+                        <li>Miremadi F, Shah NP. Applications of inulin and probiotics in health and nutrition. International Food Research Journal. 2012;19(4):1337-1350 - http://www.ifrj.upm.edu.my</li>
+                        <li>Mu Q.Tavella VJ, Luo XM. Role of lactobacillus reuteri in human health and diseases. Frontiers in Microbiology. 2018;9 - https://doi.org/10.3389/fmicb.2018.00757</li>
+                        <li>Myers B. 3 health purposes of Dicalcium phosphate | livestrong. LIVESTRONG.COM. 2011, June 16 - https://www.livestrong.com/article/472086-what-is-the-purpose-of-dicalcium-phosphate/</li>
+                        <li>Novkovic B. 6+ surprising benefits of lactobacillus paracasei. SelfDecode Supplements. 2021, September 9 - https://supplements.selfdecode.com/blog/l-paracasei/</li>
+                        <li>Rezaie E, Bayani M, Arjomandzadegan M. The inhibitory and antibacterial effects of peppermint essential oil on periodontal photogenes. Journal of Arak University of Medical Sciences. 2020:172-183 - https://doi.org/10.32598/jams.23.2.5710.3</li>
+                        <li>Scepano T. How probiotics prevent tooth decay: The case of lactobacillus paracasei. Medium. 2020, September 30 - https://medium.com/@tscepanovic/how-probiotics-prevent-tooth-decay-the-case-of-lactobacillus-paracasei-c923fcef6f4d</li>
+                       
+                        <li>Campbell K. Oral microbiome findings challenge dentistry dogma. Nature. 2021. - https://doi.org/10.1038/d41586-021-02920-w</li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="py-3"></div>
+      </div>
+                  </div>
+      <footer>
+         
+<div class="footer-wrapper position-relative overflow-hidden">
+<div class="footer-top-bg">
+   <div class="container">
+      <div class="row">
+         <div class="col-12">
+            <div class="footer-menu">
+               <ul class="pt-2">
+                    <!--  <li class="footer-menu-links"><a href="https://prodentim.com/index.php" target="_blank">Home</a></li>
+                    <li class="footer-menu-links"><a href="https://prodentim.com/text.php?#start-now">Get Started</a></li>-->
+                    <li class="footer-menu-links"><a g-evt="Contact" href="https://prodentim.com/help/contact-us.php?" target="_blank">Contact</a></li>
+    				<li class="footer-menu-links"><a g-evt="References" href="https://prodentim.com/help/references.php?" target="_blank">References</a></li>
+    				<li class="footer-menu-links"><a g-evt="Terms-Of-Use" href="https://prodentim.com/help/terms.php?" target="_blank">Terms Of Use</a></li>
+    				<li class="footer-menu-links"><a g-evt="Disclaimer" href="https://prodentim.com/help/disclaimer.php?" target="_blank">Disclaimer</a></li>
+    				<li class="footer-menu-links"><a g-evt="Privacy-Policy" href="https://prodentim.com/help/privacy.php?" target="_blank">Privacy Policy</a></li>
+    				<li class="footer-menu-links"><a g-evt="Shipping-Policy" href="https://prodentim.com/help/shipping.php?" target="_blank">Shipping Policy</a></li>
+    				<li class="footer-menu-links"><a g-evt="Refund-Policy" href="https://prodentim.com/help/refunds.php?" target="_blank">Refund Policy</a></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="footer-middle-bg">
+   <div class="container">
+      <div class="row">
+         <div class="col-12">
+            <p class=" py-2"></p>
+            <div class="disclaimer">
+               <!-- <hr class="d-block d-sm-none" size="2" style="border: 2px solid white;" /> -->
+               <div class="footer-main-section">
+
+	<p class="text-center mb-1">For Product Support, please contact the vendor <a class="text-dark" href="https://prodentim.com/help/contact-us.php" target="_blank"><u>here</u></a></p>
+	<p class="text-center">For Order Support, please contact ClickBank <a class="text-dark" target="_blank" href="https://www.clkbank.com/"><u>here</u></a></p>
+
+	<div class="py-2"></div>
+
+	<p>Please note that the information we provide is not intended to replace consultation with a qualified medical professional. We encourage you to inform your physician of changes you make to your lifestyle and discuss these with him or her. For questions or concerns about any medical conditions you may have, please contact your doctor.</p>
+
+	<p>Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.</p>
+
+	<p>The website's content and the product for sale is based upon the author's opinion and is provided solely on an "AS IS" and "AS AVAILABLE" basis. You should do your own research and confirm the information with other sources when searching for information regarding health issues and always review the information carefully with your professional health care provider before using any of the protocols presented on this website and/or the product sold here.</p>
+
+	<p>ClickBank is the retailer of products on this site. CLICKBANK&reg; is a registered trademark of Click Sales, Inc., a Delaware corporation located at 1444 South Entertainment Ave, Suite 410, Boise, Idaho, 83709, USA and used by permission. ClickBank's role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products.</p>
+
+
+
+
+			<p class="pt-3 disclaimer-text">* For international shipping (outside of the United States), shipping fees will apply. <a class="footer-link" href="https://prodentim.com/help/shipping.php" target="_blank">Read more here</a>.</p>
+
+
+
+		
+
+</div>            </div>
+            <p><span id="disclaimer"></span></p>
+            <p class=" py-2"></p>
+         </div>
+
+      </div>
+   </div>
+</div>
+<div class="footer-bottom-bg">
+   <div class="copyright py-4">
+      <div class="text-center" style="font-size:16px;">Copyright &copy; <span date format="Y"></span> <b><!--<a  href="https://prodentim.com"></a>-->ProDentim</b> | All Rights Reserved</div>
+   </div>
+</div>
+<!-- ClickBank Trust Badge -->
+<script src='//cbtb.clickbank.net/?vendor=prodentim'></script>      </footer>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVDK935"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWJM66K"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->   </body>
+</html>

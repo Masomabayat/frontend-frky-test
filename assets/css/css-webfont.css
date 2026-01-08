@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "Muli";
+  src: url("../fonts/fonts-webfont-extrabold.ttf") format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Muli";
+  src: url("../fonts/fonts-webfont-bold.ttf") format("truetype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Muli";
+  src: url("../fonts/fonts-webfont.ttf") format("truetype");
+  font-weight: normal;
+}
+
+/**/
+
+ @font-face {
+            font-family: main-font;
+            src: url("../fonts/Quicksand-Regular.ttf");
+        }
+
+        @font-face {
+            font-family: bold-font;
+            src: url("../fonts/Quicksand-Bold.ttf");
+        }
+
+        @font-face {
+            font-family: light-font;
+            src: url("../fonts/Quicksand-Light.ttf");
+        }
+
+        @font-face {
+            font-family: medium-font;
+            src: url("../fonts/Quicksand-Medium.ttf");
+        }
+
+        @font-face {
+            font-family: semi-bold-font;
+            src: url("../fonts/Quicksand-SemiBold.ttf");
+        }
+
+        @font-face {
+            font-family: roboto-bold;
+            src: url("../fonts/RobotoCondensed-Bold.ttf");
+        }
+
+
+        * {
+            --background-color:white;
+            --main-font-color:#272727;
+            --main-hover-color: #ccc;
+            --main-font-family: main-font, Roboto, "Helvetica Neue", Arial, sans-serif;
+            /* font sizes */
+            --font-large: 2rem;
+            --font-medium: 1.5rem;
+            --font-normal: 1rem;
+            --font-small: 0.5rem;
+            /* HDEADLINE */
+            --headline-color: var(--main-font-color);
+            /* FOOTER colors*/
+            --footer-background-color: black;
+            --copywrite-background-color:darkgray;
+            --footer-font-color:#ffffff;
+            --footer-hover-color:var(--main-hover-color);
+            --accent-color-light:#00a536;
+            /* PRICE BOX */
+            --color-dark:#3d56b0;
+            --color-light:#2fb3c5;
+            --references-clickable: auto;
+        }
+/**/
