@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noimageindex, nofollow, nosnippet">
     <meta name="description" content="HépaLiv - Dernière chance">
-    <title>HépaLiv - Dernière chance</title>
+    <title>HépaLiv - Dernière chance 6</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon" />

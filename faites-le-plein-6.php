@@ -1,6 +1,6 @@
 ﻿<?php
     $page_suivante = "confirmation.php";
-    $page_downsell = "derniere-chance.php";
+    $page_downsell = "dernière-chance-6.php";
 ?>
 
 <!DOCTYPE html>
@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noimageindex, nofollow, nosnippet">
     <meta name="description" content="HépaLiv">
-    <title>HépaLiv - Faites le plein</title>
+    <title>HépaLiv - Faites le plein 6</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon" />
     <link rel="stylesheet" type="text/css" href="assets/css/css-bootstrap.min.css">
