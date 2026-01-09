@@ -753,28 +753,6 @@ include_once("includes/banner-txt-by-date.php");
 
                     </div>
                 </div>
-                <div class="col-lg-6 text-center">
-                    <button id="toggle-doctor-img" class="btn btn-secondary mb-3" type="button" style="margin-top: 15px;">
-                        Afficher/Masquer l'image du Dr. Eric Wood
-                    </button>
-                    <div id="doctor-img-container">
-                        <img src="assets/images/doctor.png" class="img-fluid doc-img2" alt="img">
-                    </div>
-                </div>
-                <script>
-                    document.addEventListener("DOMContentLoaded", function() {
-                        var btn = document.getElementById("toggle-doctor-img");
-                        var imgContainer = document.getElementById("doctor-img-container");
-                        btn.addEventListener("click", function() {
-                            if (imgContainer.style.display === "none") {
-                                imgContainer.style.display = "block";
-                            } else {
-                                imgContainer.style.display = "none";
-                            }
-                        });
-                    });
-                </script>
-
             </div>
         </div>
     </section>
