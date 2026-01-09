@@ -1519,7 +1519,7 @@ include_once("includes/banner-txt-by-date.php");
         <script src="assets/js/timer-offer-pages.js"></script>
         <script>
             // Offer BTN. 
-            let currentChoice = 6;
+            let currentChoice = 3;
             let choiceBtns = document.querySelectorAll('.choiceBtn');
             let offerBtn = document.querySelector('.offerBtn');
 

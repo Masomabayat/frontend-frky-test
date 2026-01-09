@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
         $('.container-list-ref-no-hideThis').removeClass('container-list-ref-no-hideThis')
         $('.ref-bloc-no-hideThis').removeClass('ref-bloc-no-hideThis');
         $('.h2-no-hidethis').removeClass('h2-no-hidethis');
+        $('#label-container').css("display", "flex");
     }
 
     if (partOpenCta === 'openpage') {
