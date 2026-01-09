@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿<?php
+include("includes/contact-variables.php");
+$contact = getContactVariables('de');
+?>
+
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -32,8 +37,8 @@
 					</h1>
                     </div>
                     <div class="col-12 col-sm-8 text-center text-sm-right">
-                        <a class="contact-link d-block d-sm-inline-block" href="tel:<?= $contact['phone']; ?>">
-                            <div class="d-inline-block align-middle text-center"><span>Des questions ? Appelez-nous !</span><span><?= $contact['phone']; ?></span></div>
+                    <a class="contact-link d-block d-sm-inline-block" href="tel:<?= $contact['phone']; ?>">
+                    <div class="d-inline-block align-middle text-center"><span>Des questions ? Appelez-nous !</span><span><?= $contact['phone']; ?></span></div>
                         </a>
                     </div>
                 </div>
@@ -164,7 +169,6 @@ Numéro de Commande :
         </div>
     </section>
 
-	<?php include("includes/footer/footer-conf.php"); 
-    $contact = getContactVariables('fr');?>
+	<?php include("includes/footer/footer-conf.php"); ?>
 </body>
 </html>

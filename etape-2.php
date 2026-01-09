@@ -34,7 +34,7 @@ else {};
 $page_suivante = "/faites-le-plein.php";
 
 include("includes/contact-variables.php");
-$contact = getContactVariables('fr');
+$contact = getContactVariables('de');
 ?>
 
 <!DOCTYPE html>
