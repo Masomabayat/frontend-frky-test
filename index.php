@@ -54,7 +54,14 @@ include_once("includes/banner-txt-by-date.php");
                 <div class="col-md-12">
                     <div class="video-wrapper video-border">
                         <div class="video-inner">
-                        <vturb-smartplayer id="vid-68cbe46bd30ddc125ecb093b" style="display: block; margin: 0 auto; width: 100%; "></vturb-smartplayer> <script type="text/javascript"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/4a5b918c-a976-4f02-bd7f-e230b18b1475/players/68cbe46bd30ddc125ecb093b/v4/player.js", s.async=!0,document.head.appendChild(s); </script>
+                        <vturb-smartplayer id="vid-68e8c54bc98b7a8c52bb5f49" style="display: block; margin: 0 auto; width: 100%;"></vturb-smartplayer>
+                        <script type="text/javascript">
+                            var s = document.createElement("script");
+                            s.src = "https://scripts.converteai.net/4a5b918c-a976-4f02-bd7f-e230b18b1475/players/68e8c54bc98b7a8c52bb5f49/v4/player.js";
+                            s.async = true;
+                            document.head.appendChild(s);
+                        </script>
+                        
                         </div>
                     </div>
                 </div>
@@ -746,10 +753,6 @@ include_once("includes/banner-txt-by-date.php");
 
                     </div>
                 </div>
-                <div class="col-lg-6 text-center">
-                    <img src="assets/images/doctor.png" class="img-fluid doc-img2" alt="img">
-                </div>
-
             </div>
         </div>
     </section>
@@ -1387,7 +1390,7 @@ include_once("includes/banner-txt-by-date.php");
 
         <div id="footer-light">
             <div class="container container-xl">
-
+            
                 <div class="row justify-content-center">
                     <img src="assets/images/logo-green.png" alt="" style="width: 200px;">
                     <div class="col-md-12">
@@ -1415,6 +1418,20 @@ include_once("includes/banner-txt-by-date.php");
                             </li>
                         
                         </ul>
+                        
+
+                        <div id="label-container" class="d-flex justify-content-center align-items-center">
+                        <label class="switch">
+                            <input type="checkbox" id="label-toggle" onchange="document.getElementById('label-img').style.display = this.checked ? 'block' : 'none';">
+                            <span class="toggle round"></span>
+                        </label>
+                        </div>
+                        <div id="label-img-container" class="d-flex justify-content-center align-items-center">
+                        <label for="label-toggle">
+                            <img src="assets/images/label.png" alt="" id="label-img" style="width: 100%; display: none;">
+                        </label>
+                        </div>
+                    
                     </div>
                 </div>
             </div>
@@ -1480,7 +1497,7 @@ include_once("includes/banner-txt-by-date.php");
         <script src="assets/js/timer-offer-pages.js"></script>
         <script>
             // Offer BTN. 
-            let currentChoice = 6;
+            let currentChoice = 3;
             let choiceBtns = document.querySelectorAll('.choiceBtn');
             let offerBtn = document.querySelector('.offerBtn');
 

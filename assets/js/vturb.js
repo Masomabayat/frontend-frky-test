@@ -24,7 +24,7 @@ loadComments();
 * ========== CTA (hidethis) ==========
 **/
 document.addEventListener("DOMContentLoaded", function () {
-    const ctaTime = (60 * 35) + 55;
+    const ctaTime = 10;
     // const ctaTime = 6;
     const partOpenCta = new URLSearchParams(window.location.search).get('part');
     const hidethisEls = document.querySelectorAll(".hidethis");
@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
         $('.container-list-ref-no-hideThis').removeClass('container-list-ref-no-hideThis')
         $('.ref-bloc-no-hideThis').removeClass('ref-bloc-no-hideThis');
         $('.h2-no-hidethis').removeClass('h2-no-hidethis');
+        $('#label-container').css("display", "flex");
     }
 
     if (partOpenCta === 'openpage') {

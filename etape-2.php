@@ -12,7 +12,7 @@ $img6 = "assets/images/hepaliv_6-p_no-macaron.png";
 $choice = strip_tags(strtolower($_GET["choice"]));
 
 if($choice == "")
-	$choice = 6;
+	$choice = 3;
 
 define('CHOICE', $choice);
 
@@ -34,7 +34,7 @@ else {};
 $page_suivante = "/faites-le-plein.php";
 
 include("includes/contact-variables.php");
-$contact = getContactVariables('fr');
+$contact = getContactVariables('de');
 ?>
 
 <!DOCTYPE html>

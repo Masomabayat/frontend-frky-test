@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿<?php
+include("includes/contact-variables.php");
+$contact = getContactVariables('de');
+?>
+
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -32,8 +37,8 @@
 					</h1>
                     </div>
                     <div class="col-12 col-sm-8 text-center text-sm-right">
-                        <a class="contact-link d-block d-sm-inline-block" href="tel:09.71.07.98.08">
-                            <div class="d-inline-block align-middle text-center"><span>Des questions ? Appelez-nous !</span><span>09.71.07.98.08</span></div>
+                    <a class="contact-link d-block d-sm-inline-block" href="tel:<?= $contact['phone']; ?>">
+                    <div class="d-inline-block align-middle text-center"><span>Des questions ? Appelez-nous !</span><span><?= $contact['phone']; ?></span></div>
                         </a>
                     </div>
                 </div>
